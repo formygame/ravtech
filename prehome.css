@@ -10,8 +10,9 @@ header{
 	width: 100%;  height: 20vh;  background-color: yellow;
 	display: flex; justify-content: space-around;
 	align-items: center;
-	 background-image: linear-gradient(to top, #fff 60%, #64FFFF 40%);
+	 background-image: linear-gradient(to top, #fff 60%, #FFA500 40%);
 }
+
 
 .logo{
 	width: 40%;
