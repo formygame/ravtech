@@ -7,7 +7,7 @@ header{
 }
 
 .navsection{
-	width: 100%;  height: 20vh;  background-color: yellow;
+	width: 100%;  height: 20vh;  background-color: red;
 	display: flex; justify-content: space-around;
 	align-items: center;
 	 background-image: linear-gradient(to top, #fff 60%, #FFA500 40%);
@@ -31,7 +31,7 @@ header{
 
 @keyframes aagepiche{
 	from{ padding-left: 40px; }
-	to { padding-right:40px;}
+	to { padding-right: 40px;}
 }
 
 nav{
@@ -45,7 +45,7 @@ nav{
 nav a{
 	text-decoration: none;
 	text-transform : uppercase;
-	color:#0BE40E;
+	color:#ffff1a;
 	font-weight: 900;
 	font-size: 17px;
 	position: relative;
@@ -81,7 +81,7 @@ main{
 
 .rightside{
 	border-radius: 77% 23% 86% 14% / 31% 34% 66% 69%  ;
-	background-color: #01A9DB ;
+	background-color: #ff00ff ;
 
 }
 
